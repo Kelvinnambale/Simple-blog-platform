@@ -23,8 +23,8 @@ This application provides a clean, user-friendly interface for managing blog con
 
 1. Clone this repository to your web server's directory:
 ```bash
-git clone [repository-url]
-cd blog-platform
+git clone [https://github.com/kelvinnambale/Simple-blog-platform]
+cd Simple-blog-platform
 ```
 
 2. Create a new MySQL database:
